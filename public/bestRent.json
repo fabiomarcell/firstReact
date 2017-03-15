@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Val 1", "status": "Vender", "image": "http://lorempixel.com/output/city-q-c-640-480-6.jpg", "price": "R$ 50.000.000,00", "description": "Descrição aqui", 
+        "opts": {
+        }
+    },
+    {
+        "title": "Val 2", "status": "Alugar", "image": "http://lorempixel.com/output/city-q-c-640-480-3.jpg", "price": "R$ 200,00", "description": "Descrição 2", 
+        "opts": {
+        }
+    },
+    {
+        "title": "Val 3", "status": "Vender", "image": "http://lorempixel.com/output/city-q-c-640-480-5.jpg", "price": "U$ 1.000.000,00", "description": "Descrição 3", 
+        "opts": {
+        }
+    },
+    {
+        "title": "Val 4", "status": "Alugar", "image": "http://lorempixel.com/output/city-q-c-640-480-8.jpg", "price": "R$ 800,00", "description": "Descrição 4", 
+        "opts": {
+        }
+    }
+]
