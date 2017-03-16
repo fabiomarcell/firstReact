@@ -3,7 +3,12 @@ import ReactDOM from 'react-dom';
 import App from './App';
 import './index.css';
 
+import { Router, Route, browserHistory, IndexRoute, hashHistory } from 'react-router';
+
 ReactDOM.render(
-  <App />,
+  (<Router history={browserHistory}>
+    <Route path="/" component={App}>
+    </Route>
+  </Router>),
   document.getElementById('root')
 );
