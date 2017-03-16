@@ -24,7 +24,6 @@ class BestDeal extends Component {
 
   render() {
     
-        let a ;
     return (
       <div id="best-deal">
         <div className="container">
